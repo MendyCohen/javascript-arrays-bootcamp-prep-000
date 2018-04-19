@@ -19,7 +19,7 @@ function destructivelyAddElementToEndOfArray(a ,b) {
 }
 
 function removeElementFromEndOfArray(a) {
-  a.slice
+  a.slice;
 }
 
 
